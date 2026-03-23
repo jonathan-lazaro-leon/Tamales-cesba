@@ -1,5 +1,7 @@
 import turtle, colorsys
 
+
+#Este archivo solo sirve para entretenimiento
 screen = turtle.Screen()
 screen.bgcolor("black")
 screen.tracer(0)
