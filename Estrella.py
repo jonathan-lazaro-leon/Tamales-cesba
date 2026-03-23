@@ -12,8 +12,8 @@ t.pensize(2)
 turtle.colormode(1.0)
 
 # --- Parametros ---
-numero_estrella = 75
-giro = 145
+numero_estrella = 70
+giro = 150
 paso = 3
 h = 0.0
 i = 0 #contador del paso actual
