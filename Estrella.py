@@ -14,7 +14,7 @@ turtle.colormode(1.0)
 # --- Parametros ---
 numero_estrella = 70
 giro = 150
-paso = 3
+paso = 5
 h = 0.0
 i = 0 #contador del paso actual
 
